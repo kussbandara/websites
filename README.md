@@ -5,3 +5,6 @@ this is a awesome website
 Edit on example branch
 
 Update made on master on Github before rebase
+
+##purpose
+the purpose of this file is to examples on how to use git and github together
