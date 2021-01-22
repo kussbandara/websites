@@ -8,3 +8,7 @@ Update made on master on Github before rebase
 
 ##purpose
 the purpose of this file is to examples on how to use git and github together
+
+##getting started
+
+to get started , clone this repo first
